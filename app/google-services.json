@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "147782403784",
+    "project_id": "sticker4u-e7803",
+    "storage_bucket": "sticker4u-e7803.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:147782403784:android:130dca83da76c304ea07fd",
+        "android_client_info": {
+          "package_name": "com.example.authentification"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBAt3stC56C1iFjzPMKaO_bpKPYoyjVWoQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:147782403784:android:25517acadd530a66ea07fd",
+        "android_client_info": {
+          "package_name": "com.example.sticker4u"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBAt3stC56C1iFjzPMKaO_bpKPYoyjVWoQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:147782403784:android:07d4e6aca458d8daea07fd",
+        "android_client_info": {
+          "package_name": "com.example.sticker4uv2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBAt3stC56C1iFjzPMKaO_bpKPYoyjVWoQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
